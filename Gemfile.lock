@@ -14,9 +14,7 @@ GEM
     execjs (2.3.0)
     fast-stemmer (1.0.2)
     ffi (1.9.6)
- 
     hitimes (1.2.2)
-
     jekyll (2.5.3)
       classifier-reborn (~> 2.0)
       colorator (~> 0.1)
@@ -83,8 +81,10 @@ GEM
 PLATFORMS
   ruby
 
-
 DEPENDENCIES
   jekyll
   jekyll-sitemap
   octopress (~> 3.0.0.rc.12)
+
+BUNDLED WITH
+   1.10.5
